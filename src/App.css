@@ -1,0 +1,17 @@
+.btn-primary{
+  margin-top:20px;
+}
+.container{
+  margin-top:20px;
+}
+.login-page{
+  margin:10% auto;
+  width:50%;
+}
+.login-page .form-element{
+  padding-bottom: 10px;
+}
+.btn-success{
+  margin:20px 0;
+  float: right;
+}
